@@ -1,0 +1,21 @@
+.box{
+	background-color: #808080;
+	border: 2px #000000 solid;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	}
+	
+.caja3{
+	width: 660px;
+	height: 220px;
+	padding: 10px;
+}
+.cajita{
+	display:inline-block;
+	width: 30%;
+	margin: 8px;
+}
+.caja4{
+	display: inline-table;	
+}
